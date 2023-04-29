@@ -1,0 +1,26 @@
+.wrapper {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.star {
+  width: 83px;
+  font-size: 20px;
+  position: relative;
+  color: #d2d2d2;
+}
+
+.starFill{
+  position: absolute;
+  height: 100%;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  font-size: 20px;
+  color: #ffa900;
+}
+
+.rating{
+  font-size: 13px;
+}

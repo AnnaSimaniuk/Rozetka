@@ -1,0 +1,22 @@
+.listProduct{
+  width: 100%;
+  list-style: none;
+  text-align: start;
+  padding: 0;
+}
+
+.link{
+  padding-left: 12px;
+  padding-right: 12px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 31px;
+  color: #3e77aa;
+  cursor: pointer;
+  text-decoration: none;
+
+  &:hover{
+    color: #f84147;
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,19 @@
+.wrapper{
+  width: 100%;
+  padding: 20px 20px 0 40px;
+  row-gap: 5px;
+}
+
+.title{
+  font-size: 36px;
+  color: #221f1f;
+  text-align: start;
+  margin-bottom: 24px;
+  font-weight: 400;
+}
+
+.wrapperProduct{
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}

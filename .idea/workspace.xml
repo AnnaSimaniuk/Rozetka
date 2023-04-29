@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59df8196-9190-4407-912c-131ae42d61d4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../homework_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../homework_2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../homework_2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+        <option value="ReactFolder.jsx.child.0" />
+        <option value="ReactFolder.jsx.child.1" />
+        <option value="ReactFolder..child.0" />
+        <option value="ReactFolder..child.1" />
+        <option value="ReactFolder..child.2" />
+        <option value="ReactFolder༏ext༏..jsx.child.0" />
+        <option value="ReactFolder༏ext༏..jsx.child.1" />
+        <option value="ReactFolder༏ext༏..jsx.child.2" />
+        <option value="ReactFolder.js.child.2" />
+        <option value="ReactFolder.js.child.2 (1)" />
+        <option value="JSXFile" />
+        <option value="ReactFolder.js.child.0" />
+        <option value="ReactFolder.js.child.1" />
+        <option value="ReactFolder" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2NT4jiFs32SDaMwHvcFgINkoJ3i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP/Desktop/Навчання/React_hw/homework_3",
+    "list.type.of.created.stylesheet": "SCSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs.jest.jest_package": "C:/Users/HP/Desktop/Навчання/React_hw/homework_3/node_modules/react-scripts",
+    "nodejs_package_manager_path": "npm",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\HP\\AppData\\Roaming\\npm\\node_modules\\prettier",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "ts.external.directory.path": "C:\\Users\\HP\\Desktop\\Навчання\\React_hw\\homework_3\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\Навчання\React_hw\homework_3" />
+      <recent name="C:\Users\HP\Desktop\Навчання\React_hw\homework_3\src\pages\PlacingOrder\Delivery" />
+      <recent name="C:\Users\HP\Desktop\Навчання\React_hw\homework_3\src\redux" />
+      <recent name="C:\Users\HP\Desktop\Навчання\React_hw\homework_3\src\pages\Products" />
+      <recent name="C:\Users\HP\Desktop\Навчання\React_hw\homework_3\src\pages\Sidebar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="generateArr function" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__test__/tools.test.js" />
+      <test-names>
+        <test-name value="generateArr function" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="useQuery" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/__test__/tools.test.js" />
+      <test-names>
+        <test-name value="useQuery" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.test" />
+        <item itemvalue="Jest.useQuery" />
+        <item itemvalue="Jest.generateArr function" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59df8196-9190-4407-912c-131ae42d61d4" name="Changes" comment="" />
+      <created>1679674874436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679674874436</updated>
+      <workItem from="1679674881819" duration="25026000" />
+      <workItem from="1679836117753" duration="22113000" />
+      <workItem from="1680088389451" duration="83000" />
+      <workItem from="1680088477720" duration="52000" />
+      <workItem from="1680089187924" duration="12976000" />
+      <workItem from="1680119826722" duration="1068000" />
+      <workItem from="1680179809434" duration="21219000" />
+      <workItem from="1680424009578" duration="23391000" />
+      <workItem from="1680624834536" duration="45578000" />
+      <workItem from="1680802464333" duration="36618000" />
+      <workItem from="1681053766256" duration="21792000" />
+      <workItem from="1681304177755" duration="2099000" />
+      <workItem from="1681402782418" duration="55669000" />
+      <workItem from="1681816832403" duration="83835000" />
+      <workItem from="1682068962074" duration="15413000" />
+      <workItem from="1682442528276" duration="21569000" />
+      <workItem from="1682527090040" duration="27819000" />
+      <workItem from="1682704458000" duration="1261000" />
+      <workItem from="1682760942639" duration="11807000" />
+      <workItem from="1682792077794" duration="1582000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
